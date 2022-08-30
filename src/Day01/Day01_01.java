@@ -12,6 +12,7 @@ public class Day01_01 {
 				int a = 32;
 				int result = a%2;
 				
+				
 				System.out.println(result);
 	}
 
